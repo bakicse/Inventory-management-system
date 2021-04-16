@@ -5,6 +5,7 @@ include 'db.php';
 <a href="home.php">HOME</a>
 <br>
 <br>
+<br>
 <form  action="searching/search_brands.php" >
   <input type="text" name="search" value=""placeholder="search Brand here">
   <input type="submit" value="search">
